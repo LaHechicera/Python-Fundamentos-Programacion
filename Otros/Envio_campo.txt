@@ -1,0 +1,8 @@
+
+Nombre del trabajador: campo
+Sueldo Base trabajador: 500000
+Total horas extras a pagar: 0
+Total de ingresos sin descuentoss: 500000
+Descuento por Fonasa 7%: 35000
+Descuento por AFP 10%: 50000
+Sueldo neto a pagar: 415000

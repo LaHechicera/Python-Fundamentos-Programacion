@@ -1,0 +1,12 @@
+
+-----Liquidacion de Sueldo-----
+ 
+Fecha y hora actual: 2024-05-22 00:20:56.621088
+ 
+Nombre del trabajador: Fulgencio
+Sueldo Base trabajador: 460000
+Total horas extras a pagar: 5114
+Total de ingresos sin descuentoss: 460000
+Descuento por Fonasa 7%: 32200
+Descuento por AFP 10%: 46000
+Sueldo neto a pagar: 381800

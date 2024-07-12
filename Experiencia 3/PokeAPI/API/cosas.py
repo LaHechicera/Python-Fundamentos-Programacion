@@ -1,0 +1,6 @@
+print(f"Clima actual en {ciudad}:")
+            print(f" - Descripción: {clima}")
+            print(f" - Temperatura: {temperatura:.2f} °C")
+            print(f" - Humedad: {humedad}%")
+            print(f" - Presión: {presion} hPa")
+            print(f" - Velocidad del viento: {viento:.2f} m/s")

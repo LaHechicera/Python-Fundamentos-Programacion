@@ -1,0 +1,7 @@
+
+-----Resumen de ventas----- 
+Fecha y hora actual: 2024-05-18 00:56:41.512209 
+Nombre del cliente: Mista Eduard 
+Peso del paquete: 10.0Kg
+Distancia a la que se enviará el paquete: 150.0Km
+El costo total del envío es: $15000.0

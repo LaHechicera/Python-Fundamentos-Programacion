@@ -1,0 +1,18 @@
+
+linea1 = ("                       /\                     ")
+linea2 = ("                      /  \                    ")
+linea3 = ("                  _.-*    *-.__         /\    ")
+linea4 = ("        .***.  .-*             ¨¨*-.__.*  *. ")
+linea5 = ("        |    \*    O                       |   ")
+linea6 = ("        |            (_;_)    O .***.       \ ")
+linea7 = ("         \                     |     \       \ ")
+linea8 = ("          *-.__________________|______________\ ")
+
+print(linea1)
+print(linea2)
+print(linea3)
+print(linea4)
+print(linea5)
+print(linea6)
+print(linea7)
+print(linea8)

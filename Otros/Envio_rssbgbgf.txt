@@ -1,0 +1,7 @@
+
+-----Resumen de ventas----- 
+Fecha y hora actual: 2024-05-18 00:55:31.932197 
+Nombre del cliente: rssbgbgf 
+Peso del paquete: 5.0Kg
+Distancia a la que se enviará el paquete: 100.0Km
+El costo total del envío es: $7500.0

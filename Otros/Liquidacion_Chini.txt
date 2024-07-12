@@ -1,0 +1,12 @@
+
+-----Liquidacion de Sueldo-----
+ 
+Fecha y hora actual: 2024-05-21 19:04:19.850270
+ 
+Nombre del trabajador: Chini
+Sueldo Base trabajador: 1200000
+Total horas extras a pagar: 13340
+Total de ingresos sin descuentoss: 1200000
+Descuento por Fonasa 7%: 84000
+Descuento por AFP 10%: 120000
+Sueldo neto a pagar: 996000

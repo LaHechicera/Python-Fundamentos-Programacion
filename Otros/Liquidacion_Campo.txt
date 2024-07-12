@@ -1,0 +1,12 @@
+
+-----Liquidacion de Sueldo-----
+ 
+Fecha y hora actual: 2024-05-18 10:32:34.114078
+ 
+Nombre del trabajador: Campo
+Sueldo Base trabajador: 600000
+Total horas extras a pagar: 6675
+Total de ingresos sin descuentoss: 600000
+Descuento por Fonasa 7%: 42000
+Descuento por AFP 10%: 60000
+Sueldo neto a pagar: 498000
